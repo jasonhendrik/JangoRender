@@ -1,4 +1,7 @@
-﻿Function AfterEffectsBGrendering() {
+#created by jasonhendrik (www.jasonhendrik.com)
+#see readme for pre-render steps!
+
+Function AfterEffectsBGrendering() {
 
 #$runningInstances =	0
 
