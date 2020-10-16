@@ -1,6 +1,8 @@
 #created by jasonhendrik (www.jasonhendrik.com)
 #see readme for pre-render steps!
 
+#This script is released under the Creative Commons 4.0 Attribution license.
+
 Function AfterEffectsBGrendering() {
 
 #$runningInstances =	0
