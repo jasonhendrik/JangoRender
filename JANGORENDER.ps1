@@ -13,7 +13,7 @@ $FileBrowser = New-Object System.Windows.Forms.OpenFileDialog -Property @{
 
     InitialDirectory = [Environment]::GetFolderPath('Desktop') 
 
-    Filter = 'AfterEffects (*.aep, *.)|*.aep|Blender (*.blend)|*.blend'
+    Filter = 'AfterEffects (*.aep, *.)|*.aep'
 }
 $null = $FileBrowser.ShowDialog()
 
