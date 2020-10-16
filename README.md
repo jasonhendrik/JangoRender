@@ -10,7 +10,8 @@ please read license if you dont what that means.
 
 # HOW TO:
 <ol>
-  <li>set up your After-Effects render-settings with "Skip Existing Files" checked on.</li>
+  
+<li>set up your After-Effects render-settings with "Skip Existing Files" checked on.</li>
 
 <li>save your project</li>
 
@@ -18,8 +19,9 @@ please read license if you dont what that means.
 <li>open with Jangorender.exe</li>
 
 
-</li>how many frames?</li>
+<li>how many frames?</li>
 
 <li>how many instances?</li>
-
+</ol>
+<br>
 Happy rendering!!!
