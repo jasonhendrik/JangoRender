@@ -1,6 +1,7 @@
 #created by jasonhendrik (www.jasonhendrik.com)
 #see readme for pre-render steps!
-
+#Use your own encapsulation method to create an EXE file. (creates named process "JANGORENDER" <- Important!)
+#If you have trouble, feel free to download JANGORENDER.EXE from jasonhendrik.com/tools
 #This script is released under the Creative Commons 4.0 Attribution license.
 
 Function AfterEffectsBGrendering() {
@@ -19,7 +20,7 @@ $null = $FileBrowser.ShowDialog()
 
 $SelectedFile = Get-Content -Raw $FileBrowser.FileName
 
-$SelectedFile_simple = Get-Content $FileBrowser.FileName
+#$SelectedFile_simple = Get-Content $FileBrowser.FileName
 
 #regex step 1 of 2
 if ($SelectedFile -match '(?<=Ropt)(?s)(.*$)') {
