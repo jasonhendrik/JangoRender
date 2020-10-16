@@ -9,15 +9,17 @@ original code here: https://github.com/jasonhendrik/JANGORENDER/
 please read license if you dont what that means.
 
 # HOW TO:
+<ol>
+  <li>set up your After-Effects render-settings with "Skip Existing Files" checked on.</li>
 
-set up your After-Effects render-settings with "Skip Existing Files" checked on.
+<li>save your project</li>
 
-save your project
 
-open with Jangorender.exe
+<li>open with Jangorender.exe</li>
 
-how many frames?
 
-how many instances?
+</li>how many frames?</li>
 
-thats it!
+<li>how many instances?</li>
+
+Happy rendering!!!
