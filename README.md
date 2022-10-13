@@ -1,5 +1,5 @@
-# JANGORENDER
-after effects multi core rendering script
+# JangoRender
+after effects multi-processor FULL-THROTTLE rendering script
 
 Made by Jason Hendrik to solve a problem for free.
 original code here: https://github.com/jasonhendrik/JANGORENDER/
